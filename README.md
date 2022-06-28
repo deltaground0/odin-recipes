@@ -1,1 +1,2 @@
 # odin-recipes
+This is the odin recipes project. I'm hoping I can work better with using git, but the more pressing goal is being comfortable and hopefully master basic HTML syntax and commands to display content, even if it doesn't look the best. I hope I can carry out this project to completion.
